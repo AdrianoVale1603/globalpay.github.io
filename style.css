@@ -429,6 +429,9 @@ input {
 	right: auto;
 	padding: 10px;
 	margin: auto; 
+	width: 10vw;
+	justify-content: right;
+	
 	&:hover{
 		top: 40px;
 		right: auto;
